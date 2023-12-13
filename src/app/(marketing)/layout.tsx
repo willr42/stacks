@@ -12,9 +12,7 @@ export default function MarketingLayout({
 }) {
   return (
     <html lang="en">
-      <body>
-        <p>Inside non-root layout</p>Something {children}
-      </body>
+      <body>{children}</body>
     </html>
   )
 }

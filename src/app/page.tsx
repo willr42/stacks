@@ -2,7 +2,7 @@
 // import { getNextServerSession } from "./api/auth/[...nextauth]/route"
 
 export default async function Home() {
-  //TODO: uncomment when dev is over to redirect to marketing site
+  // TODO: uncomment when dev is over to redirect to marketing site
   // const session = await getNextServerSession()
 
   // if (!session) {
